@@ -2,7 +2,7 @@
 
 ダーツ設置店を中心に、ボウリング、カラオケ、プリクラ、プライズ、ゲームセンターを横断検索するUGC対応アミューズ施設検索サービスです。
 
-Canonical domain: https://dartspot.jp/
+Canonical domain: https://syunnjack.github.io/my-dartslive/
 
 ## Features
 
