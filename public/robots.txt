@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dartspot.jp/sitemap.xml
+Sitemap: https://my-dartslive.vercel.app/sitemap.xml
