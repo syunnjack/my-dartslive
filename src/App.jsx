@@ -171,7 +171,7 @@ function App() {
       .filter((spot) => !text || `${spot.name} ${spot.area} ${spot.station} ${spot.category} ${spot.tags.join(' ')} ${spot.note}`.toLowerCase().includes(text))
       .sort((a, b) => Number(b.status === '営業中') - Number(a.status === '営業中') || b.rating - a.rating || a.walk - b.walk)
   }, [category, filters, query])
-  const display = filtered.length ? filtered : spots
+  const display = filtered
 
   const submitPost = (event) => {
     event.preventDefault()
@@ -227,6 +227,7 @@ function App() {
       </section>
 
       <section className="content-grid">
+        {display.length === 0 && <p className="empty-state">条件に一致する施設はありません。検索語やフィルターを変更してください。</p>}
         {display.map((spot) => (
           <article className={spot.status === '閉店' ? 'card closed' : 'card'} key={spot.id}>
             <div className="card-topline">
