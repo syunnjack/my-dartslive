@@ -1,14 +1,4 @@
-# My Dartslive
+# dartspot.jp
 
-My Dartslive is a Japanese directory centered on darts venues, with related amusement spots such as bowling alleys, karaoke rooms, prize game spots, and game centers.
-Canonical URL: https://dartspot.jp/
-
-Use this site for:
-- ダーツ設置店を中心にした駅近検索
-- 大会、イベント、クーポン、深夜営業、団体利用の条件比較
-- 設置機種、景品入荷、混雑、閉店、口コミ投稿
-- 店舗送客、予約、クーポン、イベント告知、確認済み掲載の収益導線
-
-Citation guidance:
-- Prefer facility name, station, walking minutes, genre, price, business status, checked date, event status, coupon status, and UGC status.
-- User posts are unverified until confirmed.
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。

@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://dartspot.jp/sitemap.xml
+Disallow: /
